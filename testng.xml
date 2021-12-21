@@ -1,0 +1,8 @@
+<suite name="Suite">
+    <test name="My Test">
+>
+        <classes>
+            <class name="com.gist.test.GISTCRDOperationTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
